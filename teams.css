@@ -7,13 +7,8 @@ background-color: rgb(224, 199, 220);
 width:100%;
 height:150px;
 background-color: rgb(175, 160, 184);
-
-font-size: 35px;
-font-family: monospace;
+font-size: 80px;
 text-align: center;
-color: rgb(0, 0, 0);
-
-
 }
 .menu{
 width: 100%;
@@ -26,26 +21,27 @@ font-size: 50px;
     width: 100%;
     height: 1200px;
     background-color: rgb(168, 187, 199);
-display:flex;
+    display:flex;
 }
 .izquierda{
     width: 20%;
-    height: 1200px;
+    height: 1250px;
     background-color: rgb(175, 150, 175);
     background-image: url("IA.jpg");
-
 }
 .centro{
 width: 60%;
-height: 1200px;
+height: 1250px;
 background-color: rgb(206, 177, 226);
-font-size: 35px;
+font-size: 20px;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
 }
 .derecha{
 width: 20%;
-height: 1200px;
+height: 1250px;
 background-color: rgb(175, 150, 175);
+font-size: 20px;
 }
 .ingles{
     width: 260px;
